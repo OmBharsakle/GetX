@@ -55,10 +55,23 @@ https://github.com/user-attachments/assets/e537cf39-625b-4c6e-8690-f86c7e5d2266
 
 <h1></h1>
 
+<h3 align="center"> CRUD OPERATION FOR EMPLOYEE MANAGEMENT SYSTEM USING GETX </h3>
+
+###
+
+<h1></h1>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e2748c9e-fcc3-4778-8931-c804a866c106" height="500">
+  <img src="https://github.com/user-attachments/assets/5937b42f-b77e-413c-a9e2-db597e44baf6" height="500">
+</div>
+
+<h1></h1>
 
 
 
-https://github.com/user-attachments/assets/70ba7be5-5b5a-4c92-b202-475a0b30642a
+
+https://github.com/user-attachments/assets/005b5ca2-f101-41aa-a917-7e550aca40d5
 
 
 
